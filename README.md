@@ -1,16 +1,37 @@
-### Hi there 👋
+## MIPT DIHT '24 (Phystech School of Applied Mathematics and Computer Science)
 
-<!--
-**RodkinIvan/RodkinIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Interests
+## Data Science
+### Cognitive modeling
+- AGI
+- Enraising an abstraction level in cognitive models
+- Modeling of imagination
+- Role of language in thinking
+- Ability to create causal relationships
+- Reflection
+- Reinforcement learning
 
-Here are some ideas to get you started:
+### Neural Networks
+- Different CNNs
+- RNNs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Math:
+### Math for cognitive modeling
+- The Category Theory
+- Lambda-calculus (in this point you can suppose, that I'm a freak)
+- Encoding theory
+
+### Other Math
+- Сomputability theory
+- Advanced set theory 
+- Probability theory
+- Theory of functions of a complex variable
+
+## Theoretical Physics
+- Quantum physics
+- Relativity theory (and also cosmology)
+
+## The rest
+- Linux
+- C++
+- Piano
