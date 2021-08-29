@@ -18,7 +18,7 @@
 ## Math:
 ### Math for cognitive modeling
 - The Category Theory
-- Lambda-calculus (in this point you can suppose, that I'm a freak)
+- Lambda-calculus (at this point you can suppose, that I'm a freak)
 - Encoding theory
 
 ### Other Math
@@ -32,6 +32,4 @@
 - Relativity theory (and also cosmology)
 
 ## The rest
-- Linux
-- C++
 - Piano
