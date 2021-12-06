@@ -1,5 +1,5 @@
 ## MIPT DIHT '24 (Applied Mathematics and Computer Science)
- 
+![Ivan Rodkin's Github stats](https://github-readme-stats.vercel.app/api?username=RodkinIvan&count_private=true&show_icons=true&theme=midnight-purple)
 # Interests
 ## Data Science
 ### Cognitive modeling
