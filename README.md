@@ -3,24 +3,20 @@
 # Interests
 ## Data Science
 ### Cognitive modeling
+- Reinforcement learning
 - AGI
-- Enraising an abstraction level in cognitive models
+- Enraising an abstraction level in cognitive systems
 - Modeling of imagination
-- Role of language in thinking
+- Language processing
 - Ability to create causal relationships
 - Reflection
-- Reinforcement learning
-
-### Neural Networks
-- Different CNNs
-- RNNs
 
 ## Math:
 - The Category Theory
 - Lambda-calculus
 - Encoding theory
 - Сomputability theory
-- Advanced set theory 
+- Advanced set theory
 - Probability theory
 - Theory of functions of a complex variable
 
