@@ -16,12 +16,9 @@
 - RNNs
 
 ## Math:
-### Math for cognitive modeling
 - The Category Theory
-- Lambda-calculus (at this point you can suppose, that I'm a freak)
+- Lambda-calculus
 - Encoding theory
-
-### Other Math
 - Сomputability theory
 - Advanced set theory 
 - Probability theory
