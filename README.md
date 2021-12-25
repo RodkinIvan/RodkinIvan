@@ -10,7 +10,7 @@
 - Ability to create causal relationships
 - Reflection
 
-## Math:
+## Math
 - The Category Theory
 - Lambda-calculus
 - Encoding theory
@@ -21,7 +21,8 @@
 
 ## Theoretical Physics
 - Quantum physics
-- Relativity theory (and also cosmology)
+- Relativity theory
+- Cosmology
 
 ## The rest
-- Piano
+- Music (Piano)
