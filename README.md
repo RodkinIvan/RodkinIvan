@@ -4,7 +4,7 @@
 ### Cognitive modeling
 - Reinforcement learning
 - AGI
-- increasing the level of abstraction in cognitive systems
+- Increasing the level of abstraction in cognitive systems
 - Modeling of imagination
 - Language processing
 - Ability to create causal relationships
