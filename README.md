@@ -1,14 +1,9 @@
 ## MIPT DIHT '24 (Applied Mathematics and Computer Science)
 # Interests
 ## Data Science
-### Cognitive modeling
+### ML
 - Reinforcement learning
-- AGI
-- Increasing the level of abstraction in cognitive systems
-- Modeling of imagination
-- Language processing
-- Ability to create causal relationships
-- Reflection
+- General models
 
 ## Math
 - The Category Theory
