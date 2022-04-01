@@ -1,4 +1,8 @@
 ## MIPT Applied Mathematics and Computer Science '24
+# links
+
+[vk](vk.com/ivanrodkin)
+
 # Interests
 ## Data Science
 ### ML
