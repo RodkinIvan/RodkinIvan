@@ -1,4 +1,4 @@
-## MIPT DIHT '24 (Applied Mathematics and Computer Science)
+## MIPT Applied Mathematics and Computer Science '24
 # Interests
 ## Data Science
 ### ML
