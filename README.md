@@ -8,7 +8,7 @@
 ## Data Science
 ### ML
 - Reinforcement learning
-- General models
+- General application models
 
 ## Math
 - The Category Theory
