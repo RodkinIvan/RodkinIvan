@@ -9,6 +9,7 @@
 ### ML
 - Reinforcement learning
 - General application models
+- NLP
 
 ## Math
 - The Category Theory
